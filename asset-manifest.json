@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/E-commerce/static/css/main.1d41ee15.css",
+    "main.js": "/E-commerce/static/js/main.40ac5ee2.js",
+    "static/media/blog-img-2.jpeg": "/E-commerce/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
+    "static/media/blog-img-1.jpeg": "/E-commerce/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
+    "static/media/slider-2.jpeg": "/E-commerce/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
+    "static/media/fa-solid-900.ttf": "/E-commerce/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/E-commerce/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/grocery-banner-2.jpeg": "/E-commerce/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/E-commerce/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/E-commerce/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/E-commerce/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/notfound2.jpg": "/E-commerce/static/media/notfound2.049c82aae736affd3771.jpg",
+    "static/media/fa-regular-400.woff2": "/E-commerce/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/freshcart-logo.svg": "/E-commerce/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/E-commerce/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/E-commerce/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/E-commerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-commerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-commerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-commerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-commerce/index.html",
+    "main.1d41ee15.css.map": "/E-commerce/static/css/main.1d41ee15.css.map",
+    "main.40ac5ee2.js.map": "/E-commerce/static/js/main.40ac5ee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d41ee15.css",
+    "static/js/main.40ac5ee2.js"
+  ]
+}
